@@ -16,3 +16,5 @@ oracle_properties = {
 transformed_df.repartition(4).write \
     .mode("append") \
     .jdbc(oracle_url, "HR.CUSTOMER_DIM", oracle_properties)
+
+#to learn pyspark jdbc
