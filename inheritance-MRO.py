@@ -12,3 +12,6 @@ class C(A,B):
     pass
 a = C()
 a.call()
+
+
+#MRO
