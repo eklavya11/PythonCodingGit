@@ -14,4 +14,4 @@ a = C()
 a.call()
 
 
-#MRO
+#MRO-method resolution order
