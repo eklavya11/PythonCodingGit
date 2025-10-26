@@ -8,3 +8,5 @@ for a in tuple1:
 
 x = list(tuple1)
 print(x)
+
+#tuple1code
